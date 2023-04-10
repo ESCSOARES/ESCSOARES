@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+I'm+Edimar+Soares;I'm+Brazilian;CyberSecurity+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-<img src="https://media-exp1.licdn.com/dms/image/D4D03AQE1zmpb6sNArw/profile-displayphoto-shrink_200_200/0/1669982565316?e=1675296000&v=beta&t=qm2RtqExBNtchqImIu7dyoxqXGMc25ZZSIHAU0iw4Lk"/>
+<img src="https://media.licdn.com/dms/image/D4D03AQE1zmpb6sNArw/profile-displayphoto-shrink_200_200/0/1669982565316?e=1686787200&v=beta&t=nk2ffdgyhTYsbguI0pqmG90oCeWTdMFZ_33wNIs0guI"/>
 </div>
 
 <div align="center">   
